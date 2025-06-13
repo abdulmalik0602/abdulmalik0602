@@ -1,70 +1,95 @@
-# ⚙️ Abdul Malik P A  
-Building future-ready platforms with code, cloud, and creativity.
+#  Abdul Malik P A 
+**Cloud-Native Full Stack Engineer** | **IoT & Microservices Specialist** | **Platform Architect**
 
-_🖤✨ “From Stack to Strategy, I own it.” ✨🖤_
-
-🎯 A driven and passionate **Full Stack Developer** with 1.5+ years of hands-on experience in building scalable, secure, and modern web and mobile applications.
-
----
-
-
-## 💼 Current Role
-
-👨‍💻 **Full Stack Developer**  
-🔹 Leading development of cloud-native applications using Kotlin Spring Boot, React, and Flutter.  
-🔹 Responsible for end-to-end delivery: from designing scalable microservices to deploying with Kubernetes and AWS.  
-🔹 Acts as **Cloud & Git Admin**, facilitating seamless collaboration, managing CI/CD, and mentoring junior developers.
+🚀 *"From Stack to Strategy, I own it."*  
+💡 Building future-ready systems across web, mobile, cloud, and embedded domains.
 
 ---
 
-## 💼 About Me
+## 🧠 Core Competencies
 
-🚀 I build **cloud-native, microservice-based platforms** that scale — from clean UI to secure APIs and production-ready CI/CD pipelines.  
-💻 I’ve contributed to multiple **SaaS products**, combining real-time features, modern authentication (Zitadel), and seamless frontend/backend integration.  
-🔧 I work across the **entire development lifecycle** — from system architecture and data modeling to deployment and monitoring.  
-☁️ I'm experienced in **cloud infrastructure** (AWS, Firebase), containerization (Docker, Kubernetes), and performance monitoring.  
-🧑‍💼 I serve as a **Git & Cloud Admin**, handle team collaboration, and mentor junior devs.  
-📈 I’m always learning and exploring the latest tools that improve code quality, user experience, and deployment speed.  
-🌍 Actively seeking **remote opportunities**, open-source collaboration, and freelance consulting.
+- **Full Stack Development** (Web/Mobile/IoT)
+- **Cloud-Native Architecture** (Microservices, Serverless)
+- **DevOps & Platform Engineering** (K8s, GitOps)
+- **Data Engineering** (SQL/NoSQL, Analytics)
+- **Embedded Systems & IoT** (Arduino, Edge Computing)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Mastery
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
-![Bit](https://img.shields.io/badge/Bit-000000?style=for-the-badge&logo=bit&logoColor=white)
+### 🌐 **Frontend Ecosystems**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Minikube](https://img.shields.io/badge/Minikube-326CE5?style=for-the-badge&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### ⚙️ **Backend & APIs**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?logo=postman)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![Zitadel](https://img.shields.io/badge/Zitadel-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iNCIgeT0iNCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMiIgZmlsbD0iI0ZGMDAwMCIvPjwvc3ZnPg==)
+### 🗃️ **Data Layer**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
+![Kedro](https://img.shields.io/badge/Kedro-000000?logo=python)
+
+### ☁️ **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![APISIX](https://img.shields.io/badge/APISIX-000000?logo=nginx)
+![Temporal](https://img.shields.io/badge/Temporal-000000?logo=data:image/svg+xml;base64,...)
+
+### 🔌 **Embedded & IoT**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?logo=c)
+
+### 🧩 **Modern Tools**
+![Bit](https://img.shields.io/badge/Bit-73398D?logo=bit)
+![Hasura](https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ---
 
-## 📫 Let's Connect
+## 💡 What I Bring to the Table
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/p-a-abdul-malik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel)](https://yourdomain.com)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:paabdulmalikwork@gmail.com)
+✔ **End-to-End Ownership**: From IoT sensors to cloud dashboards - I connect all layers  
+✔ **Architecture Mindset**: Design systems considering scalability, security, and cost  
+✔ **DevOps Culture**: Infrastructure-as-Code, GitOps, and SRE principles  
+✔ **Data Fluency**: Comfortable across relational, document, and graph databases  
+✔ **Edge Computing**: Experience bridging cloud and physical devices  
+✔ **Mentorship**: Enjoy elevating teams through knowledge sharing  
 
 ---
+
+## 🚀 Current Engagements
+
+- Building **AI-enabled IoT platforms** with edge-cloud architecture  
+- Modernizing legacy systems with **microservices and GraphQL**  
+- Implementing **GitOps workflows** with ArgoCD and Kubernetes  
+- Developing **low-latency APIs** with FastAPI and APISIX gateway  
+- Exploring **temporal workflows** for complex business processes  
+
+---
+
+## 📫 Let's Build Something Amazing
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)][(https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/p-a-abdul-malik))
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?logo=gmail&style=for-the-badge)](mailto:paabdulmalikwork@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?logo=vercel&style=for-the-badge)](https://yourportfolio.com)
+
+> *"Complex systems demand simple foundations - I specialize in that alchemy."*
