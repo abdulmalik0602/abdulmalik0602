@@ -1,9 +1,7 @@
 # Abdul Malik P A 
+> *"Bridging bits and atoms - I engineer solutions that live between servers and sensors."*
+
 **Cloud-Native Full Stack Engineer** | **IoT & Microservices Specialist** | **Platform Architect**
-
-🚀 *"From Stack to Strategy, I own it."*  
-💡 Building future-ready systems across web, mobile, cloud, and embedded domains.
-
 ---
 
 ## 🧠 Core Competencies
@@ -118,4 +116,4 @@
 [![Email](https://img.shields.io/badge/Contact_Me-D14836?logo=gmail&style=for-the-badge)](mailto:paabdulmalikwork@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?logo=vercel&style=for-the-badge)](#)
 
-> *"Bridging bits and atoms - I engineer solutions that live between servers and sensors."*
+
