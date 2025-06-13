@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Abdul Malik
+_🖤✨ “From Stack to Strategy, I own it.” ✨🖤_
 
 🎯 A driven and passionate **Full Stack Developer** with 1.5+ years of hands-on experience in building scalable, secure, and modern web and mobile applications.
 
@@ -65,5 +66,3 @@
 [![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:paabdulmalikwork@gmail.com)
 
 ---
-
-_🖤✨ “From Stack to Strategy, I own it.” ✨🖤_
