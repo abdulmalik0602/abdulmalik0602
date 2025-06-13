@@ -1,4 +1,4 @@
-# ⚡ Abdul Malik P A 
+#  Abdul Malik P A 
 **Cloud-Native Full Stack Engineer** | **IoT & Microservices Specialist** | **Platform Architect**
 
 🚀 *"From Stack to Strategy, I own it."*  
