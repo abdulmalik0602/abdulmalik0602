@@ -89,7 +89,7 @@
 ## 📫 Let's Build Something Amazing
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/p-a-abdul-malik)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?logo=gmail&style=for-the-badge)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?logo=gmail&style=for-the-badge)](mailto:paabdulmalikwork@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?logo=vercel&style=for-the-badge)](https://yourportfolio.com)
 
 > *"Complex systems demand simple foundations - I specialize in that alchemy."*
