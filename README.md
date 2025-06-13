@@ -1,6 +1,6 @@
 # Abdul Malik P A, B.E.( MBA )
 **Cloud-Native Full Stack Engineer** | **IoT & Microservices Specialist** | **Platform Architect**
-> *"Where AI pipelines meet customer pipelines – I architect systems that understand both."*
+> *"Shipping full-stack systems that don’t just work — they drive growth"*
 
 🏆 **Salesforce Certified AI Associate** | **Google Certified Digital Marketer**  
 🚀 *"Bridging technical depth with business impact – from code to customer journeys."*
