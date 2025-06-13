@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Abdul Malik
+# ⚙️ Abdul Malik P A  
+Building future-ready platforms with code, cloud, and creativity.
+
 _🖤✨ “From Stack to Strategy, I own it.” ✨🖤_
 
 🎯 A driven and passionate **Full Stack Developer** with 1.5+ years of hands-on experience in building scalable, secure, and modern web and mobile applications.
