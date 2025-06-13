@@ -4,6 +4,16 @@
 
 ---
 
+
+## 💼 Current Role
+
+👨‍💻 **Full Stack Developer**  
+🔹 Leading development of cloud-native applications using Kotlin Spring Boot, React, and Flutter.  
+🔹 Responsible for end-to-end delivery: from designing scalable microservices to deploying with Kubernetes and AWS.  
+🔹 Acts as **Cloud & Git Admin**, facilitating seamless collaboration, managing CI/CD, and mentoring junior developers.
+
+---
+
 ## 💼 About Me
 
 🚀 I build **cloud-native, microservice-based platforms** that scale — from clean UI to secure APIs and production-ready CI/CD pipelines.  
