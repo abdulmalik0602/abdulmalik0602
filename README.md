@@ -1,4 +1,4 @@
-# Abdul Malik P A 
+# Abdul Malik P A, B.E.( MBA )
 > *"Bridging bits and atoms - I engineer solutions that live between servers and sensors."*
 
 **Cloud-Native Full Stack Engineer** | **IoT & Microservices Specialist** | **Platform Architect**
