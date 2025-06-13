@@ -28,12 +28,12 @@
 ## 🛠️ Tech Mastery
 
 ### 🌐 **Frontend Ecosystems**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
 
 ### 📱 **Mobile Development**
