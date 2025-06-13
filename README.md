@@ -1,7 +1,10 @@
 # Abdul Malik P A, B.E.( MBA )
-> *"Bridging bits and atoms - I engineer solutions that live between servers and sensors."*
-
 **Cloud-Native Full Stack Engineer** | **IoT & Microservices Specialist** | **Platform Architect**
+> *"Where AI pipelines meet customer pipelines – I architect systems that understand both."*
+
+🏆 **Salesforce Certified AI Associate** | **Google Certified Digital Marketer**  
+🚀 *"Bridging technical depth with business impact – from code to customer journeys."*
+
 ---
 
 ## 🧠 Core Competencies
@@ -16,6 +19,11 @@
 - **Cross-Platform Mobile** (Flutter, Ionic, Native)
 
 ---
+
+## 🏅 Certifications
+
+![Salesforce AI](https://img.shields.io/badge/Salesforce_AI_Associate-00A1E0?logo=salesforce&logoColor=white)
+![Google Marketing](https://img.shields.io/badge/Google_Digital_Marketer-4285F4?logo=google&logoColor=white)
 
 ## 🛠️ Tech Mastery
 
